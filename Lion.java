@@ -1,15 +1,3 @@
-/*
-
-14 September 2019
-Thapelo Moshoadiba
-Introduction to programming Task 11.1
-
-● Add a field (i.e. method or variable) for lion type.
-● Add a method in this class which sets the lion type based on it’s weight (note that the weight is a derived field from the superclass).
-● If their weight is less than 80kg, it’s type should be a cub. If less than 120kg, it should be female. And if greater than 120kg.
-
-*/
-
 package inheritence;
 
 public class Lion extends Animal {
