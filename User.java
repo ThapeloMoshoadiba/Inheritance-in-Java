@@ -1,15 +1,3 @@
-/*
-
-14 September 2019; Thapelo Moshoadiba
-Introduction to programming Task 11
-
-● Print out the type of lion.
-● Compile, save and run your file.
-● Create an application class, and within it create a Cheetah object and print it out with the main method.
-● Compile, save and run your file.
-
-*/
-
 package inheritence;
 
 import java.util.Scanner;
