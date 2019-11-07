@@ -1,10 +1,3 @@
-/*
-
-14 September 2019; Thapelo Moshoadiba
-Introduction to programming Task 11.1
-
-*/
-
 package inheritence;
 
 public class Animal {
