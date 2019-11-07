@@ -1,19 +1,3 @@
-/*
-
-14 September 2019; Thapelo Moshoadiba
-Introduction to programming Task 11.2
-
-● Create a class called ‘Cheetah’ that:
-  ○ Inherits from the Animal class.
-  ○ Makes use of at least one static field (AKA static variable/method [it's a variable in a class that can only be utilized in that class and can't be accessed another class])
-    which needs to have a static setter (methods used to set data i.e. give value to variable) and getter (methods used to get data i.e. where you'll put the return statements).
-    # This is just long-winded, in my opinion
-  ○ Contains a constructor.
-  ○ Contains a toString() method.
-  ○ Has an array as one of it’s fields (variables).
-
-*/
-
 package inheritence;
 
 import java.util.ArrayList;
